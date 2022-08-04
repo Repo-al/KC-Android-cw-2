@@ -1,0 +1,13 @@
+public class Main
+{
+	public static void main(String[] args) {
+		
+		
+		
+		int heiget = 160;
+		int playr = 178;
+		 if ( playr > heiget ){
+		     System.out.println("He can enter");
+		 } 
+	}
+}
